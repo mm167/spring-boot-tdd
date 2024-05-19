@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.formation</groupId>
-	<artifactId>pet-api</artifactId>
+	<artifactId>bceao-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>pet-api</name>
-	<description>pet-api</description>
+	<name>bceao-api</name>
+	<description>bceao-api</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
