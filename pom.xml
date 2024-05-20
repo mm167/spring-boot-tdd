@@ -41,11 +41,6 @@
 			<artifactId>h2</artifactId>
 			<scope>test</scope>
 		  </dependency>
-		<dependency>
-			<groupId>org.pitest</groupId>
-			<artifactId>pitest-junit5-plugin</artifactId>
-			<version>1.2.1</version>
-		</dependency>
 	</dependencies>
 
 	<build>
@@ -83,7 +78,7 @@
 					<dependency>
 						<groupId>org.pitest</groupId>
 						<artifactId>pitest-junit5-plugin</artifactId>
-						<version>0.12</version>
+						<version>1.2.1</version>
 					</dependency>
 				</dependencies>
 				<configuration>
